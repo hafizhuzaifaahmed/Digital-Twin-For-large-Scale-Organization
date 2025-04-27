@@ -1,14 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Huzaifa\\row-coloum testing\\",
+  "WorkspaceRootPath": "C:\\Users\\abood\\row-coloum testing\\row-coloum testing\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Huzaifa\\row-coloum testing\\Assets\\Scripts\\BuildingGenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\BuildingGenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E252A95A-37FC-2038-F510-9127C4996FA1}|Assembly-CSharp.csproj|c:\\users\\abood\\row-coloum testing\\row-coloum testing\\assets\\deskagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E252A95A-37FC-2038-F510-9127C4996FA1}|Assembly-CSharp.csproj|solutionrelative:assets\\deskagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Huzaifa\\row-coloum testing\\Assets\\Scripts\\Datafetcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Datafetcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E252A95A-37FC-2038-F510-9127C4996FA1}|Assembly-CSharp.csproj|C:\\Users\\abood\\row-coloum testing\\row-coloum testing\\assets\\sliderscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E252A95A-37FC-2038-F510-9127C4996FA1}|Assembly-CSharp.csproj|solutionrelative:assets\\sliderscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E252A95A-37FC-2038-F510-9127C4996FA1}|Assembly-CSharp.csproj|C:\\Users\\abood\\row-coloum testing\\row-coloum testing\\assets\\startavatar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E252A95A-37FC-2038-F510-9127C4996FA1}|Assembly-CSharp.csproj|solutionrelative:assets\\startavatar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E252A95A-37FC-2038-F510-9127C4996FA1}|Assembly-CSharp.csproj|C:\\Users\\abood\\row-coloum testing\\row-coloum testing\\assets\\freeavatar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E252A95A-37FC-2038-F510-9127C4996FA1}|Assembly-CSharp.csproj|solutionrelative:assets\\freeavatar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E252A95A-37FC-2038-F510-9127C4996FA1}|Assembly-CSharp.csproj|c:\\users\\abood\\row-coloum testing\\row-coloum testing\\assets\\scripts\\buildinggenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E252A95A-37FC-2038-F510-9127C4996FA1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buildinggenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +30,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Datafetcher.cs",
-              "DocumentMoniker": "D:\\Huzaifa\\row-coloum testing\\Assets\\Scripts\\Datafetcher.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Datafetcher.cs",
-              "ToolTip": "D:\\Huzaifa\\row-coloum testing\\Assets\\Scripts\\Datafetcher.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Datafetcher.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAowCwAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "DeskAgent.cs",
+              "DocumentMoniker": "C:\\Users\\abood\\row-coloum testing\\row-coloum testing\\Assets\\DeskAgent.cs",
+              "RelativeDocumentMoniker": "Assets\\DeskAgent.cs",
+              "ToolTip": "C:\\Users\\abood\\row-coloum testing\\row-coloum testing\\Assets\\DeskAgent.cs",
+              "RelativeToolTip": "Assets\\DeskAgent.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAIwDsAAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T08:11:11.968Z",
+              "WhenOpened": "2025-03-25T23:13:13.55Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "StartAvatar.cs",
+              "DocumentMoniker": "C:\\Users\\abood\\row-coloum testing\\row-coloum testing\\Assets\\StartAvatar.cs",
+              "RelativeDocumentMoniker": "Assets\\StartAvatar.cs",
+              "ToolTip": "C:\\Users\\abood\\row-coloum testing\\row-coloum testing\\Assets\\StartAvatar.cs",
+              "RelativeToolTip": "Assets\\StartAvatar.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T22:01:31.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SliderScript.cs",
+              "DocumentMoniker": "C:\\Users\\abood\\row-coloum testing\\row-coloum testing\\Assets\\SliderScript.cs",
+              "RelativeDocumentMoniker": "Assets\\SliderScript.cs",
+              "ToolTip": "C:\\Users\\abood\\row-coloum testing\\row-coloum testing\\Assets\\SliderScript.cs",
+              "RelativeToolTip": "Assets\\SliderScript.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAwEgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T20:57:19.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FreeAvatar.cs",
+              "DocumentMoniker": "C:\\Users\\abood\\row-coloum testing\\row-coloum testing\\Assets\\FreeAvatar.cs",
+              "RelativeDocumentMoniker": "Assets\\FreeAvatar.cs",
+              "ToolTip": "C:\\Users\\abood\\row-coloum testing\\row-coloum testing\\Assets\\FreeAvatar.cs",
+              "RelativeToolTip": "Assets\\FreeAvatar.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwD0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T21:18:26.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "BuildingGenerator.cs",
-              "DocumentMoniker": "D:\\Huzaifa\\row-coloum testing\\Assets\\Scripts\\BuildingGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\abood\\row-coloum testing\\row-coloum testing\\Assets\\Scripts\\BuildingGenerator.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\BuildingGenerator.cs",
-              "ToolTip": "D:\\Huzaifa\\row-coloum testing\\Assets\\Scripts\\BuildingGenerator.cs",
+              "ToolTip": "C:\\Users\\abood\\row-coloum testing\\row-coloum testing\\Assets\\Scripts\\BuildingGenerator.cs",
               "RelativeToolTip": "Assets\\Scripts\\BuildingGenerator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAowD0BAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-14T09:53:18.323Z",
               "EditorCaption": ""

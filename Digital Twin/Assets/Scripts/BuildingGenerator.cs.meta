@@ -3,7 +3,13 @@ guid: 99287c30be885c1459bb968fbaf29cba
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - floorPrefab: {instanceID: 0}
+  - wallPrefab: {instanceID: 0}
+  - grassPlanePrefab: {instanceID: 0}
+  - _2ChairTable: {fileID: 5397176889120104829, guid: 3e3fb280f4aa3424394b6a15f0544098, type: 3}
+  - _4ChairTable: {fileID: 5127755906778521842, guid: 04d0526c7a75961488e027107b3d4553, type: 3}
+  - _6ChairTable: {fileID: 7524827722528467971, guid: a0977d5fdc30f9b4db991effeb10d29c, type: 3}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

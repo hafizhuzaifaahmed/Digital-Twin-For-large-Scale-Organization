@@ -1,6 +1,10 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.AI.Navigation.Samples", "Unity.AI.Navigation.Samples.csproj", "{72CDBC51-0BA3-62B7-D35F-B3172FA897E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.AI.Navigation.Samples.Initialization.Editor", "Unity.AI.Navigation.Samples.Initialization.Editor.csproj", "{B9345F82-FDAE-B20A-DA1A-8E969C18BA94}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{E252A95A-37FC-2038-F510-9127C4996FA1}"
 EndProject
 Global
@@ -9,6 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72CDBC51-0BA3-62B7-D35F-B3172FA897E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72CDBC51-0BA3-62B7-D35F-B3172FA897E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72CDBC51-0BA3-62B7-D35F-B3172FA897E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72CDBC51-0BA3-62B7-D35F-B3172FA897E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9345F82-FDAE-B20A-DA1A-8E969C18BA94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9345F82-FDAE-B20A-DA1A-8E969C18BA94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9345F82-FDAE-B20A-DA1A-8E969C18BA94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9345F82-FDAE-B20A-DA1A-8E969C18BA94}.Release|Any CPU.Build.0 = Release|Any CPU
 		{E252A95A-37FC-2038-F510-9127C4996FA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{E252A95A-37FC-2038-F510-9127C4996FA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E252A95A-37FC-2038-F510-9127C4996FA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
